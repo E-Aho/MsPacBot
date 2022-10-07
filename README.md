@@ -1,4 +1,4 @@
-# PacBot, a test in Genetic Algorithm hyperparameters and the effect they have on learning.
+# MsPacBot, a test in Genetic Algorithm hyperparameters and the effect they have on learning.
 
 This is the repo for PacBot. PacBot is a system of training agents to play the game 
 ["Ms. PacMan"](https://en.wikipedia.org/wiki/Ms._Pac-Man), released for the Atari 2600 in 1982. The game is interfaced
