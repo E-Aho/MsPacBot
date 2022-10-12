@@ -8,3 +8,7 @@ with via the [Arcade Learning Environment](https://arxiv.org/abs/1207.4708).
 To install, either call `pip install .` or `pip install -r requirements.txt`
 
 To install dev dependencies (for running tests), call `pip install -e ".[dev]"`, or `pip install -r requirements.txt dev-requirements.txt`
+
+## TODOs
+* Train for longer
+* Play around with different types of functions in genetic algos
